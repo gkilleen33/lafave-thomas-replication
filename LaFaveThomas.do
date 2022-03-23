@@ -41,7 +41,7 @@
   set matsize 10000 ;
   version 14.0 ;
   
-  *install add-on programs if needed ;
+  *install add-on programs if needed 
   ssc install reghdfe ;
   ssc install ivreghdfe;  // reghdfe was updated to remove this code
   ssc install outreg2 ;
